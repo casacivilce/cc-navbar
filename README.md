@@ -1,6 +1,10 @@
 # ![Logotipo da Casa Civil](https://raw.githubusercontent.com/casacivilce/cc-navbar/master/common/images/logotipo-horizontal-casa-civil-full-cores-gradiente.png)
 
 # CC-NAVBAR
+
+[![Build Status](https://travis-ci.org/casacivilce/cc-navbar.svg?branch=master)](https://travis-ci.org/casacivilce/cc-navbar)
+[![npm version](https://badge.fury.io/js/%40govce%2Fcc-navbar.svg)](https://badge.fury.io/js/%40govce%2Fcc-navbar)
+
 Módulo que utiliza uma lógica em conjunto com alguns componentes do [Angular Material](https://material.angular.io/guide/getting-started) para facilitar a configuração dinâmica de um Toolbar e de um Sidenav com objetivo de padronizar os sistemas organizacionais do Governo do Estado do Ceará.
 
 ## Índice
